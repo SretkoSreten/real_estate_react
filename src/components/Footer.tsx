@@ -1,5 +1,4 @@
 import React from "react";
-import logoImg from "../assets/images/logo-light.png";
 
 import { AiOutlineTwitter, AiFillLinkedin, AiFillYoutube } from "react-icons/ai";
 import { FaFacebook } from "react-icons/fa";
@@ -10,9 +9,6 @@ export function Footer() {
       <div className="footer-top">
         <div className="container">
           <div className="footer-brand">
-            <a href="#" className="logo">
-              <img src={logoImg} alt="Homeverse logo" />
-            </a>
 
             <p className="section-text">
               Lorem Ipsum is simply dummy text of the and typesetting industry.
@@ -29,12 +25,6 @@ export function Footer() {
               <li>
                 <a href="tel:+0123456789" className="contact-link">
                   <span>+0123-456789</span>
-                </a>
-              </li>
-
-              <li>
-                <a href="mailto:contact@homeverse.com" className="contact-link">
-                  <span>contact@homeverse.com</span>
                 </a>
               </li>
             </ul>
@@ -199,7 +189,7 @@ export function Footer() {
       <div className="footer-bottom">
         <div className="container">
           <p className="copyright">
-            &copy; 2022 <a href="#">codewithsadee</a>. All Rights Reserved
+            &copy; 2022 <a href="#">sretenperic</a>. All Rights Reserved
           </p>
         </div>
       </div>

@@ -24,7 +24,7 @@ export function Header() {
                 <div className="icon">
                   <AiOutlineMail />
                 </div>
-                <span>info@homeverse.com</span>
+                <span>sretenperic3000@gmail.com</span>
               </a>
             </li>
 
@@ -33,7 +33,7 @@ export function Header() {
                 <div className="icon">
                   <GoLocation />
                 </div>
-                <address>15/A, Nest Tower, NYC</address>
+                <address>Maribor, Slovenia</address>
               </a>
             </li>
           </ul>
@@ -72,15 +72,9 @@ export function Header() {
 
       <div className="header-bottom">
         <div className="container">
-          <a href="#" className="logo">
-            <img src={logoImg} alt="Homeverse logo" />
-          </a>
 
           <nav className="navbar" data-navbar>
             <div className="navbar-top">
-              <a href="#" className="logo">
-                <img src={logoImg} alt="Homeverse logo" />
-              </a>
 
               <button
                 className="nav-close-btn"
