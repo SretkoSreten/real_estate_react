@@ -14,12 +14,6 @@ The Real Estate Website is a comprehensive platform designed for buying, selling
 4. Customize the website's appearance, branding, and content according to your requirements.
 5. Start the development server: `yarn start`
 
-For detailed installation and configuration instructions, please refer to the [Installation Guide](installation.md).
-
-## Contribution
-
-Contributions to the Real Estate Website are welcome! If you would like to contribute, please follow the guidelines outlined in the [Contribution Guidelines](contributing.md) document.
-
 ## Contact
 
 If you have any questions, suggestions, or concerns, please feel free to reach out to us at [sretenperic3000@gmail.com](mailto:sretenperic3000@gmail.com). We appreciate your feedback!
