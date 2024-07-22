@@ -1,6 +1,6 @@
 # Real Estate Website
 
-The Real Estate Website is a comprehensive platform designed for buying, selling, and renting properties. This GitHub repository contains the source code and documentation for the website.
+This GitHub repository contains the source code and documentation for the website.
 
 ## Technologies Used
 
